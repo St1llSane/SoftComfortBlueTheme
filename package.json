@@ -1,0 +1,44 @@
+{
+  "name": "softcomfort",
+  "displayName": "SoftComfortTheme",
+  "version": "1.0.0",
+  "description": "Soft dark color theme",
+  "author": "St1llSane",
+  "publisher": "St1llSane",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "soft",
+    "comfort",
+    "soft comfort",
+    "st1llsane",
+    "blue",
+    "blue theme",
+    "pink",
+    "pink theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "SoftComfort",
+        "uiTheme": "vs-dark",
+        "path": "./theme/soft-comfort-blue-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/St1llSane/SoftComfortBlueTheme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/St1llSane/SoftComfortBlueTheme/issues"
+  },
+  "homepage": "https://github.com/St1llSane/SoftComfortBlueTheme#readme"
+}
